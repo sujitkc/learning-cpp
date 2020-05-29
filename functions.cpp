@@ -55,7 +55,6 @@ void print_n_times_rec(string s, int n) {
     cout << s << endl;
     print_n_times_rec(s, n - 1);
   }
-
 }
 
 int main() {
